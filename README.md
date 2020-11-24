@@ -3,7 +3,7 @@ A basic truth table generator written in python for use with circuit design and/
 
 # Functions
 
-<b>makeTable(ibc, obc)</b>
+<b>makeTable(int ibc, int obc)</b>
 
 ```makeTable(<input bit count>, <output bit count>) # Will create a truth table with desired number of input bits and output bits```
 
