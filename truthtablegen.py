@@ -42,7 +42,3 @@ def clearTable():
     outputBits = []
     minTerms = []
     outputs = []
-
-makeTable(2, 4)
-printTable()
-clearTable()
